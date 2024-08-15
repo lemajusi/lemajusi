@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lemajusi
-- 👀 I’m interested in Game Develop
-- 🌱 I’m currently learning Game Develop
-- 💞️ I’m looking to collaborate on nothing now
+- 👀 I’m interested in Develop
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking something special
 
 <!---
 lemajusi/lemajusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
